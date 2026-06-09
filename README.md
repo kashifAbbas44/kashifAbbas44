@@ -42,7 +42,7 @@ FAST NUCES, Lahore
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=kashifAbbas44&theme=tokyonight&hide_border=true)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kashifAbbas44-&layout=compact&theme=tokyonight&hide_border=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kashifAbbas44&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
